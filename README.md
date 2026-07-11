@@ -1,98 +1,238 @@
-# Hi there, I'm Anshul Arohi 👋
+<div align="center">
 
-### 🚀 Aspiring Software Engineer | Python Developer | Flutter Developer | AI/ML Enthusiast
+# Hi 👋, I'm Anshul Arohi
 
-I'm passionate about building real-world software using Python, Flutter, and Django while continuously improving my skills in Data Structures & Algorithms, Backend Development, and Machine Learning.
+### Python Developer • Flutter Developer • Django Backend Developer • AI/ML Enthusiast
 
-* 🌱 Currently learning **Advanced DSA, Django REST Framework, Flutter, Machine Learning, and System Design**
-* 💡 Interested in **Backend Development, Mobile Development, Artificial Intelligence, and Software Engineering**
-* 🎯 Goal: Become a Software Development Engineer (SDE)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;Flutter+Developer;Django+Backend+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<a href="https://github.com/Anshul-3107">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anshularohi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 💻 Passionate about building real-world software
+
+- 🌱 Currently learning
+  - Advanced Data Structures & Algorithms
+  - Django REST Framework
+  - Flutter
+  - Machine Learning
+  - System Design
+
+
+
+- 🎯 Goal: Become a Software Development Engineer
+
+- ⚡ I enjoy turning ideas into useful applications.
+
+<br clear="right"/>
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,django,flutter,postgres,sqlite,git,github,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=python,dart"/>
 </p>
 
-### 📚 Libraries & Packages
+## Frameworks
 
-* Django REST Framework
-* Riverpod
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* NLTK
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flutter"/>
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
+</p>
+
+## Libraries & Packages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLTK-4CAF50?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Project
 
-## 🌦 AI Weather Forecast App 
+<div align="center">
 
-A full-stack weather forecasting application built using **Flutter** and **Django REST Framework**.
+## 🌦️ AI Weather Forecast App *(In Progress)*
 
-### Features
+*A full-stack weather application built with Flutter and Django REST Framework, designed to provide accurate forecasts with AI-powered insights.*
 
-* 🌍 Live Weather Data
-* 📱 Responsive Flutter UI
-* 🤖 AI-powered Weather Prediction
-* 👨‍💼 Profession-based Weather Recommendations
-* 🔗 REST API Integration
+</div>
 
 ---
 
-# 📚 Currently Learning
+### ✨ Features
 
-* Data Structures & Algorithms
-* Django REST Framework
-* Flutter
-* Machine Learning
-* Artificial Intelligence
-* System Design Fundamentals
+| Feature | Status |
+|---------|:------:|
+| 🌍 Live Weather Data | ✅ |
+| 📱 Responsive Flutter UI | ✅ |
+| 🌙 Light & Dark Theme | ✅ |
+| 🔗 REST API Integration | ✅ |
+| 📍 Location-based Weather | 🚧 |
+| 🤖 AI Weather Prediction | 🚧 |
+| 👨‍💼 Profession-based Weather Advice | 🚧 |
+| 📊 Weather Analytics | 🚧 |
+
+> **Tech Stack:** Flutter • Django REST Framework • Python • Open-Meteo API • Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 📚 Learning | 🎯 Focus |
+|-------------|----------|
+| Data Structures & Algorithms | Problem Solving |
+| Django REST Framework | Backend APIs |
+| Flutter | Cross-platform Apps |
+| Machine Learning | Predictive Models |
+| System Design | Scalable Applications |
+
+</div>
+
+---
+
+clean and responsive Flutter UIs
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-3107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-3107&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> **Note:** If these cards don't load, the public GitHub Readme Stats service may be temporarily unavailable.
+
+---
 
 
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-3107&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-3107&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-* ✅ Solve 500+ DSA Problems
-* 🚀 Build Production-Ready Full-Stack Applications
-* 🤝 Contribute to Open Source
-* 📖 Master Backend Development
-* 💼 Become a Software Development Engineer (SDE)
+<div align="center">
+
+| Goal | Progress |
+|------|:--------:|
+| 🧩 Solve 500+ DSA Problems | 🚧 |
+| 🌦 Complete AI Weather App | 🚧 |
+| 🤖 Learn Machine Learning | 🚧 |
+| 🌐 Build Production-Ready APIs | 🚧 |
+| 📱 Publish Flutter Projects | 🚧 |
+| 💼 Become a Software Development Engineer | 🚀 |
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 💡 Fun Facts
 
-<p align="left">
+- 🧠 I enjoy solving challenging programming problems.
+- 🌦 Currently building an AI-powered Weather Forecast App.
+- 📚 I believe the best way to learn is by building real projects.
+- ☕ Coffee + Coding = Productivity.
+- 🚀 Always curious to learn something new.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/Anshul-3107">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anshularohi/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
   </a>
 </p>
 
-* GitHub: https://github.com/Anshul-3107
-* LinkedIn: https://www.linkedin.com/in/anshularohi/
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on projects related to:
+
+- 🌿 Django & Django REST Framework
+- 📱 Flutter
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 💻 Open Source
+
+Feel free to connect with me!
 
 ---
 
-# 💭 Favorite Quote
+---
 
-> **"Consistency beats intensity. Keep learning, keep building, and keep improving."** 
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Consistency beats intensity. Learn continuously, build relentlessly, and never stop improving."** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me or checking out my repositories.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
+</div>
