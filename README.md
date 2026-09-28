@@ -1,238 +1,202 @@
 <div align="center">
 
-# Hi 👋, I'm Anshul Arohi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anshul%20Arohi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%26%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-### Python Developer • Flutter Developer • Django Backend Developer • AI/ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=760&lines=Training+deep+learning+models+%F0%9F%A7%A0;Building+FastAPI+%26+Django+REST+backends+%E2%9A%99%EF%B8%8F;Shipping+cross-platform+Flutter+apps+%F0%9F%93%B1;Turning+ML+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;Flutter+Developer;Django+Backend+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
+<br><br>
+
+<a href="https://www.linkedin.com/in/anshularohi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Anshul-3107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/anshularohi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:anshularohi31072004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
-<a href="https://github.com/Anshul-3107">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anshularohi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Anshul-3107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+```python
+class Anshul:
+    role       = "AI/ML Engineer & Full-Stack Developer"
+    education  = "B.Tech CSE (AI & ML) @ Vellore Institute of Technology"
+    graduating = "May 2027"
+    certified  = ["AWS Certified Machine Learning Engineer – Associate"]
+    focus      = ["Deep Learning", "NLP", "LLM Integration", "Backend APIs", "Mobile Apps"]
+    currently  = ["Advanced DSA", "System Design", "Production ML deployment"]
 
-- 💻 Passionate about building real-world software
+    def mission(self):
+        return "Turn machine learning into practical products, from model to API to mobile UI."
+```
 
-- 🌱 Currently learning
-  - Advanced Data Structures & Algorithms
-  - Django REST Framework
-  - Flutter
-  - Machine Learning
-  - System Design
-
-
-
-- 🎯 Goal: Become a Software Development Engineer
-
-- ⚡ I enjoy turning ideas into useful applications.
-
-<br clear="right"/>
+<br>
 
 ---
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,dart"/>
-</p>
-
-## Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flutter"/>
-</p>
-
-## Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
-</p>
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
-</p>
-
-## Libraries & Packages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLTK-4CAF50?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 Featured Project
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 🌦️ AI Weather Forecast App *(In Progress)*
+### 🧑‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,dart" /> &nbsp; <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="48"/>
 
-*A full-stack weather application built with Flutter and Django REST Framework, designed to provide accurate forecasts with AI-powered insights.*
+### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-0984E3?style=for-the-badge"/>
+
+### 🧠 ML / DL Frameworks
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> &nbsp; <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=django,fastapi" /> &nbsp; <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Async%20APIs-5C2D91?style=for-the-badge"/>
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
 </div>
 
----
-
-### ✨ Features
-
-| Feature | Status |
-|---------|:------:|
-| 🌍 Live Weather Data | ✅ |
-| 📱 Responsive Flutter UI | ✅ |
-| 🌙 Light & Dark Theme | ✅ |
-| 🔗 REST API Integration | ✅ |
-| 📍 Location-based Weather | 🚧 |
-| 🤖 AI Weather Prediction | 🚧 |
-| 👨‍💼 Profession-based Weather Advice | 🚧 |
-| 📊 Weather Analytics | 🚧 |
-
-> **Tech Stack:** Flutter • Django REST Framework • Python • Open-Meteo API • Machine Learning
+<br>
 
 ---
 
-# 🌱 Currently Learning
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 [Leaf Compass](https://github.com/Anshul-3107/Leaf-Compass)
+**AI Agricultural Assistant**
+
+Flutter app + FastAPI backend serving four ML models and an LLM chat assistant.
+
+- 🍂 **Disease detection:** custom PyTorch CNN, PlantVillage (~54K images, 38 classes)
+- 🌾 **Yield, crop & fertilizer models:** Scikit-learn Random Forests
+- 🤖 **AgroBot:** DeepSeek via Hugging Face Inference API
+- 🐳 **Deploy:** Dockerized for Hugging Face Spaces / Render
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [WeatherWise](https://github.com/Anshul-3107/WeatherWise)
+**AI-Powered Weather App**
+
+Flutter frontend with a Django REST backend and ML-based predictions.
+
+- 📅 **Features:** live conditions, 7-day forecast, air quality, alerts, astronomy, city search
+- 🌡️ **ML:** temperature & rain prediction from historical data
+- 💡 **Advice engine:** activity-specific recommendations
+- 🎨 **UI:** light / dark / system themes, Riverpod state
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 📚 Learning | 🎯 Focus |
-|-------------|----------|
-| Data Structures & Algorithms | Problem Solving |
-| Django REST Framework | Backend APIs |
-| Flutter | Cross-platform Apps |
-| Machine Learning | Predictive Models |
-| System Design | Scalable Applications |
+### 📧 [Spam Email / Message Detector](https://github.com/Anshul-3107/spam-email-message-detector)
+*NLP classifier for spam messages and emails using Naive Bayes.*
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 </div>
 
----
-
-clean and responsive Flutter UIs
+<br>
 
 ---
 
-# 📈 GitHub Stats
+## 🏅 Certifications
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-3107&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-3107&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-> **Note:** If these cards don't load, the public GitHub Readme Stats service may be temporarily unavailable.
-
----
-
+<img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-Applied%20Machine%20Learning%20in%20Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
 </div>
 
+<br>
+
 ---
 
-# 🎯 2026 Goals
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anshul-3107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-3107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-3107&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anshul-3107&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
+
+</div>
+
+> If the stat cards don't load, the public stats services may be temporarily unavailable.
+
+<br>
+
+---
+
+## 🎯 2026 Goals
 
 <div align="center">
 
 | Goal | Progress |
-|------|:--------:|
-| 🧩 Solve 500+ DSA Problems | 🚧 |
-| 🌦 Complete AI Weather App | 🚧 |
-| 🤖 Learn Machine Learning | 🚧 |
-| 🌐 Build Production-Ready APIs | 🚧 |
-| 📱 Publish Flutter Projects | 🚧 |
-| 💼 Become a Software Development Engineer | 🚀 |
+|:-----|:--------:|
+| 🧩 Solve 500+ DSA problems | 🚧 |
+| 🌦️ Complete WeatherWise AI layer | 🚧 |
+| 🌐 Build production-ready APIs | 🚧 |
+| 📱 Publish Flutter projects | 🚧 |
+| 💼 Land a Software / AI-ML engineering role | 🚀 |
 
 </div>
-
----
-
-# 💡 Fun Facts
-
-- 🧠 I enjoy solving challenging programming problems.
-- 🌦 Currently building an AI-powered Weather Forecast App.
-- 📚 I believe the best way to learn is by building real projects.
-- ☕ Coffee + Coding = Productivity.
-- 🚀 Always curious to learn something new.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Anshul-3107">
-    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anshularohi/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on projects related to:
-
-- 🌿 Django & Django REST Framework
-- 📱 Flutter
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 💻 Open Source
-
-Feel free to connect with me!
-
----
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"Consistency beats intensity. Learn continuously, build relentlessly, and never stop improving."** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider following me or checking out my repositories.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+I'm open to working on **🤖 Machine Learning & AI**, **📱 Flutter apps**, **🌐 FastAPI / Django backends**, and **💻 open source**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/anshularohi/"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br><br>
+
+> **"Consistency beats intensity. Learn continuously, build relentlessly, and never stop improving."** 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
