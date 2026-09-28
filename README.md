@@ -140,28 +140,7 @@ Flutter frontend with a Django REST backend and ML-based predictions.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anshul-3107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-3107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-3107&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anshul-3107&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
-
-</div>
-
-> If the stat cards don't load, the public stats services may be temporarily unavailable.
-
-<br>
-
----
 
 ## 🎯 2026 Goals
 
