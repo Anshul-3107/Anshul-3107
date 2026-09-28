@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anshul%20Arohi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%26%20Python&descAlignY=58&descSize=18" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=760&lines=Training+deep+learning+models+%F0%9F%A7%A0;Building+FastAPI+%26+Django+REST+backends+%E2%9A%99%EF%B8%8F;Shipping+cross-platform+Flutter+apps+%F0%9F%93%B1;Turning+ML+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/anshularohi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Anshul-3107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/anshularohi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:anshularohi31072004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Anshul-3107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
